@@ -1,6 +1,6 @@
 export default function Article({ article }) {
   return (
-    <article>
+    <article id="article-container">
       {!article ? (
         <p>No article selected</p>
       ) : (
