@@ -1,7 +1,9 @@
-# A Blog Starter App
+# A Blog
 
-This is a trivial blog app, started with create-react-app.
+An interesting blog application. Uses Firestore for persistence and Firebase Auth for authentification. This application is hosted on Firebase.
 
-It works entirely within memory, so reloads blow everything away except for the first two mock articles.
+**Note to Dr. Toal: This looks awful, I know. I will come back and fix this up**
 
-This repo is designed for you to fork and extend with (1) better CSS and (2) a real back end, with authentication and a database.
+Link to starter code: https://github.com/lmucs/blog-starter-app
+
+Link to Firebase deployment: https://blog-9dcf0.web.app
